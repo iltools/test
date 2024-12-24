@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.3](https://github.com/iltools/test/compare/1.1.2...1.1.3) (2024-12-24)
+
+
+### Bug Fixes
+
+* 修改git ([f595ee6](https://github.com/iltools/test/commit/f595ee6a497d79c01d26802b3e58b85c198a87cb))
+* 修改git ([1b8944d](https://github.com/iltools/test/commit/1b8944da71b013ea950a797c3c8208b15dcfb4da))
+
 ## [1.1.2](https://github.com/iltools/test/compare/1.1.1...1.1.2) (2024-12-24)
 
 
