@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/iltools/test/compare/1.1.0...1.1.1) (2024-12-24)
+
+
+### Bug Fixes
+
+* 修改配置 ([83aa3cd](https://github.com/iltools/test/commit/83aa3cd4c8f4faae3e6b881299edd64a7e280e92))
+
 # [1.1.0](https://github.com/iltools/test/compare/1.0.1...1.1.0) (2024-12-24)
 
 
