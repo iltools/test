@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/iltools/test/compare/1.1.3...1.1.4) (2024-12-25)
+
+
+### Bug Fixes
+
+* githu ([0fee000](https://github.com/iltools/test/commit/0fee000edcc4568a1b280fbc0c8281daf676606b))
+
 ## [1.1.3](https://github.com/iltools/test/compare/1.1.2...1.1.3) (2024-12-24)
 
 
