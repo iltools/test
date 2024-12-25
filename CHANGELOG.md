@@ -1,5 +1,7 @@
 # Changelog
 
+## [1.1.10](https://github.com/iltools/test/compare/1.1.9...1.1.10) (2024-12-25)
+
 ## [1.1.9](https://github.com/iltools/test/compare/1.1.8...1.1.9) (2024-12-25)
 
 ## [1.1.8](https://github.com/iltools/test/compare/1.1.7...1.1.8) (2024-12-25)
