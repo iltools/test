@@ -2,7 +2,7 @@
   "$schema": "https://unpkg.com/release-it/schema/release-it.json",
   "github": {
     "release": true,
-    "tokenRef": "GITHUB_TOKEN"
+    "tokenRef": "RELEASE_IT_GITHUB_TOKEN"
   },
   "npm": {
     "publish": false
