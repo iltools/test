@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.7](https://github.com/iltools/test/compare/1.1.6...1.1.7) (2024-12-25)
+
+
+### Bug Fixes
+
+* tokenRef ([ed22bbd](https://github.com/iltools/test/commit/ed22bbd4e49b3024156d8e0e556c160dc71ab824))
+
 ## [1.1.6](https://github.com/iltools/test/compare/1.1.5...1.1.6) (2024-12-25)
 
 
